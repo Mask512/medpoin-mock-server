@@ -1,0 +1,16 @@
+{
+  "name": "back-end-mock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "watch": "nodemon src/server.js"
+  },
+  "keywords": [],
+  "author": "Dhimas Sahid P",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.2"
+  }
+}
