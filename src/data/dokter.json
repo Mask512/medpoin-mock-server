@@ -1,18 +1,22 @@
 [
   {
     "name": "dr. Bennie Kuhlman",
-    "id": "1"
+    "id": "DR-001",
+    "speciality": "Umum"
   },
   {
     "name": "dr. Sherman Koepp",
-    "id": "2"
+    "id": "DR-002",
+    "speciality": "Kandungan"
   },
   {
     "name": "dr. Tami Koelpin",
-    "id": "3"
+    "id": "DR-003",
+    "speciality": "Anastesi"
   },
   {
     "name": "dr. Lillie Little",
-    "id": "4"
+    "id": "DR-004",
+    "speciality": "Umum"
   }
 ]
