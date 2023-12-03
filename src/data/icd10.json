@@ -1,0 +1,33 @@
+{
+  "icd10_codes": [
+    { "id": "A00", "name": "Cholera" },
+    { "id": "A01", "name": "Typhoid fever" },
+    { "id": "A02", "name": "Other salmonella infections" },
+    { "id": "A03", "name": "Shigellosis" },
+    { "id": "A04", "name": "Other bacterial intestinal infections" },
+    { "id": "A05", "name": "Other bacterial foodborne intoxications" },
+    { "id": "A06", "name": "Amoebiasis" },
+    { "id": "A07", "name": "Other protozoal intestinal diseases" },
+    { "id": "A08", "name": "Viral and other specified intestinal infections" },
+    {
+      "id": "A09",
+      "name": "Other and unspecified gastroenteritis and colitis"
+    },
+    {
+      "id": "A15",
+      "name": "Respiratory tuberculosis, bacteriologically and histologically confirmed"
+    },
+    {
+      "id": "A16",
+      "name": "Respiratory tuberculosis, not confirmed bacteriologically or histologically"
+    },
+    { "id": "A17", "name": "Tuberculosis of nervous system" },
+    { "id": "A18", "name": "Tuberculosis of other organs" },
+    { "id": "A19", "name": "Miliary tuberculosis" },
+    { "id": "A20", "name": "Plague" },
+    { "id": "A21", "name": "Tularaemia" },
+    { "id": "A22", "name": "Anthrax" },
+    { "id": "A23", "name": "Brucellosis" },
+    { "id": "A24", "name": "Glanders and melioidosis" }
+  ]
+}

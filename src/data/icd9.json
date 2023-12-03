@@ -1,0 +1,29 @@
+{
+  "icd9cm_procedure_codes": [
+    { "id": "100", "name": "Diagnostic colonoscopy" },
+    { "id": "201", "name": "Cholecystectomy" },
+    { "id": "302", "name": "Cardiac catheterization" },
+    { "id": "403", "name": "Appendectomy" },
+    { "id": "504", "name": "Total knee replacement" },
+    { "id": "605", "name": "Cataract surgery" },
+    { "id": "706", "name": "Endoscopy" },
+    { "id": "807", "name": "Hernia repair" },
+    { "id": "908", "name": "Electrocardiogram (ECG or EKG)" },
+    { "id": "1009", "name": "Routine physical examination" },
+    { "id": "1110", "name": "Laparoscopic appendectomy" },
+    { "id": "1211", "name": "Lumbar puncture" },
+    { "id": "1312", "name": "Gallbladder ultrasound" },
+    { "id": "1413", "name": "Arthroscopic knee surgery" },
+    { "id": "1514", "name": "Upper gastrointestinal endoscopy" },
+    { "id": "1615", "name": "Hernia ultrasound" },
+    { "id": "1716", "name": "Cardiac stress test" },
+    { "id": "1817", "name": "Colonoscopy with biopsy" },
+    { "id": "1918", "name": "Echocardiogram" },
+    { "id": "2019", "name": "Hip replacement surgery" },
+    { "id": "2120", "name": "Mastectomy" },
+    { "id": "2221", "name": "Bronchoscopy" },
+    { "id": "2322", "name": "Gastric bypass surgery" },
+    { "id": "2423", "name": "Cesarean section" },
+    { "id": "2524", "name": "Coronary angioplasty" }
+  ]
+}
